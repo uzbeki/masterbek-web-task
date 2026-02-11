@@ -85,6 +85,11 @@ Place videos in `/public/videos/` or import as assets. You're welcome to add CSS
    - One failure case (e.g. "I didn't catch that")
    - Bonus: silence prompt if implemented
 
+## Note on AI Usage and Ownership Expectations
+You may absolutely use AI to help with this task, even to one-shot major parts. What matters most is that you can explain the implementation thoroughly. At Masterbek, we must own the codebase and be responsible for it. That means for professional client work you need to understand, debug, extend, and refine every part of the source code you submit.
+
+Some candidates will one-shot solutions with AI, but we prioritize understanding and the ability to polish the result to our transition requirements, especially the explicit requirement of no black screen and no buffering. By "black screen" we mean even a split-second black frame caused by switching between video players (often called a "black flash"). AI-generated solutions often miss this requirement, and it is a common deciding factor in selection.
+
 ## Evaluation Criteria
 - **Seamless video playback & state management** (35%) – Core differentiator
 - **Clean, maintainable code & architecture** (30%)
