@@ -90,6 +90,11 @@ You may absolutely use AI to help with this task, even to one-shot major parts. 
 
 Some candidates will one-shot solutions with AI, but we prioritize understanding and the ability to polish the result to our transition requirements, especially the explicit requirement of no black screen and no buffering. By "black screen" we mean even a split-second black frame caused by switching between video players (often called a "black flash"). AI-generated solutions often miss this requirement, and it is a common deciding factor in selection.
 
+## Why We Use This Task
+We respect your time and want to be transparent about our process. We receive hundreds of applications (far more than expected for our small Uzbekistan-based team shipping to Japanese clients), so we use a focused test task drawn from real project work we have already completed to identify strong fits without requiring lengthy initial interviews for everyone. This lets candidates showcase relevant skills on something meaningful, and successful candidates are highly likely to work on similar projects.
+
+If this approach does not align with what you are looking for, no hard feelings, and we wish you the best in your search.
+
 ## Evaluation Criteria
 - **Seamless video playback & state management** (35%) – Core differentiator
 - **Clean, maintainable code & architecture** (30%)
